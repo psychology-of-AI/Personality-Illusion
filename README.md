@@ -33,7 +33,7 @@ We **welcome contributions**. Please feel free to open a PR to add new self-repo
 
 ## Getting in Touch
 
-* For general questions and discussions, please use [GitHub Discussions](https://github.com/Pengrui-Han/Personality_Illusion/discussions). 
+* For general questions and discussions, please use [GitHub Discussions](https://github.com/psychology-of-AI/Personality-Illusion/discussions). 
 
 * To report a potential bug, please open an issue. In the issue, please include the exact steps to reproduce the error, and complete logs. The more details you provide, the better we will be able to help you.
 
