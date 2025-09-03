@@ -1,0 +1,325 @@
+Model,type,Persona,persona_index,Persona_Content,temp,run,openeness,consciencienes,extraversion,agreeableness,neuroticism,self_regulation
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,0.3,1,3,3,3,3,3,202.86
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,0.3,2,3.1,3,3,3,3,204.75
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,0.3,3,3.1,3,3,3,3,202.86
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,0.7,1,3.2,3.22,2.88,2.89,3,197.19
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,0.7,2,3.1,3,2.88,3,2.88,197.82
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,0.7,3,3,3.11,2.88,3,3.12,197.19
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,1,1,3.4,3.22,2.88,3.11,3.12,190.26
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,1,2,3.2,3,3,3.11,2.75,202.86
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,1,,1,3,3.2,3.11,3,3.33,3,209.16
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,1,3.4,3.22,3.25,3.33,3,202.23
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,2,3.5,3.22,2.75,3.33,2.88,207.27
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,3,3.4,3.22,2.88,3.22,3.12,204.12
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,1,4,3.44,3.12,3.56,3,209.79
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,2,3.5,3.44,3.12,3.44,2.88,206.01
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,3,3.6,3,3,3.33,3.12,204.12
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,1,3.6,3.44,3.38,3.44,3.12,204.75
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,2,3.6,3.56,2.75,3.67,2.88,206.01
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,3,3.6,3.67,3.12,3.44,3.5,202.23
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,1,3.2,3.22,3,3.11,2.88,204.75
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,2,3.1,3.22,3.12,3,3.12,206.01
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,3,3.1,3.11,2.88,3,2.88,206.01
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,1,3.1,3.11,3,3.22,3.12,204.75
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,2,3.4,3.22,3.12,2.89,3.25,207.27
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,3,3.2,3.22,3,3.22,2.75,206.01
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,1,1,3.6,3,3.12,2.89,2.88,204.12
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,1,2,3.2,2.89,3.38,3,2.88,204.12
+meta-llama/Llama-3.2-3B-Instruct,instruct,baseline,3,Respond to the instructions.,1,3,3.4,3,2.88,3.22,2.88,207.27
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,0.3,1,3.2,3.11,3,3,3,209.16
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,0.3,2,3.2,3.11,3,3,3,206.01
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,0.3,3,3.2,3.11,3,3,3,206.01
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,0.7,1,3.2,3.11,3,3,3,214.2
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,0.7,2,3.2,3.11,3,3,3,209.79
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,0.7,3,3.2,3.11,3,3,3.25,204.75
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,1,1,3.2,3.11,3,3.11,3,211.05
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,1,2,3.2,3.11,3,3,3.12,207.27
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,1,,1,3,3.2,3.22,3,3.11,3,209.79
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,1,3.3,3.22,3.12,3.44,3.12,212.31
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,2,3.3,3.22,3.12,3.44,3,211.05
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,3,3.3,3.22,3.12,3.56,3,212.94
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,1,3.6,3.44,3,3.22,2.88,209.16
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,2,3.5,3.33,3.12,3.67,3.25,212.94
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,3,3.3,3.11,3.12,3.56,3.12,216.72
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,1,3.5,3.44,3.25,3.67,2.88,209.16
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,2,3.3,3.56,3.12,3.44,2.88,209.16
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,3,3.3,3.22,3,3.22,3.12,209.16
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,1,3.2,3.11,3.12,3,3,209.79
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,2,3.2,3.11,3.12,3,3,207.9
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,3,3.2,3.11,3,3,3,209.79
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,1,3.3,3.22,3.12,3,3.12,211.05
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,2,3.3,3.11,3,2.89,3.12,207.9
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,3,3.4,3.22,3.12,3,3,209.16
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,1,1,3.2,3.11,3.12,3.11,3,206.01
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,1,2,3.2,3.22,3,3.11,2.88,207.9
+meta-llama/Meta-Llama-3-8B-Instruct,instruct,baseline,3,Respond to the instructions.,1,3,3.3,3,3,3.11,3,211.05
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,0.3,1,3.1,3.33,3.25,3.11,2.88,219.87
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,0.3,2,3.2,3.22,3.25,3.11,3,224.91
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,0.3,3,3.1,3.33,3.25,3.11,2.88,219.24
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,0.7,1,3.2,3,3.5,3.11,2.88,224.28
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,0.7,2,3.2,3.22,3.62,3.22,2.88,224.91
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,0.7,3,3.2,3.11,3.25,3.11,2.88,216.72
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,1,1,3.2,3.11,3.38,3.11,2.88,216.72
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,1,2,3.5,3.44,3.12,3.22,3.12,219.24
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,1,,1,3,3.3,3.22,3.12,3.22,2.88,217.98
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,1,3.2,3.22,3.5,3,3,231.21
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,2,3.3,3.22,3.5,3,3,228.06
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,3,3.6,3.22,3.25,3.22,3,228.06
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,1,3.5,3.33,3.25,3.33,2.62,228.69
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,2,3.6,3,3.75,3.22,2.75,231.84
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,3,3.4,3.11,3.38,3,3,226.17
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,1,3.9,3.22,3.38,3.33,2.75,226.8
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,2,3.8,3.33,3.5,3,2.75,221.76
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,3,3.8,3.33,3.12,3.22,2.5,229.95
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,1,3.3,3.22,3.25,3,3,223.02
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,2,3.3,3.33,3.25,3.11,3,226.17
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,3,3.4,3.11,3.25,3.11,3,219.87
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,1,3.8,3.22,3.12,3.11,2.75,219.87
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,2,3.4,3.11,3.38,3.22,3,223.02
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,3,3.2,3.11,3.38,3.22,3,221.13
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,1,1,3.2,3.33,3.62,3.33,2.75,224.91
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,1,2,3.1,3.56,3,3.33,3,221.13
+Qwen/Qwen2.5-1.5B-Instruct,instruct,baseline,3,Respond to the instructions.,1,3,3.1,3.11,3.75,3.11,2.5,219.24
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,0.3,1,3.4,3.44,3,3.44,2.75,212.31
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,0.3,2,3.3,3.44,3,3.44,2.75,212.31
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,0.3,3,3.3,3.44,3,3.44,2.75,211.05
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,0.7,1,3.5,3.44,3,3.44,2.75,212.94
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,0.7,2,3.4,3.44,3,3.22,2.75,211.05
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,0.7,3,3.5,3.44,3,3.22,2.75,209.79
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,1,1,3.4,3.44,3,3.22,2.88,214.2
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,1,2,3.2,3.44,3,3.44,2.75,212.31
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,1,,1,3,3.3,3.44,3,3.44,2.62,209.79
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,1,3.7,3.44,3,3.44,2.62,216.09
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,2,3.7,3.44,3,3.44,2.5,214.83
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,3,3.7,3.44,3,3.44,2.5,216.09
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,1,3.7,3.44,3,3.67,2.62,214.2
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,2,3.7,3.44,3,3.44,2.5,212.94
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,3,3.6,3.44,3.12,3.44,2.5,214.2
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,1,3.7,3.56,3,3.44,2.62,212.31
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,2,3.6,3.56,3,3.67,2.62,214.83
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,3,3.6,3.44,3,3.44,2.75,214.2
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,1,3.6,3.44,3.12,3.67,2.5,214.83
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,2,3.6,3.44,3.12,3.67,2.5,212.94
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,3,3.7,3.44,3.12,3.67,2.5,212.94
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,1,3.7,3.44,3.25,3.56,2.5,212.94
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,2,3.6,3.44,3.12,3.78,2.5,214.2
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,3,3.7,3.44,3.12,3.78,2.5,212.31
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,1,1,3.6,3.44,3.25,3.67,2.5,211.05
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,1,2,3.5,3.44,3,3.78,2.62,214.2
+Qwen/Qwen2.5-7B-Instruct,instruct,baseline,3,Respond to the instructions.,1,3,3.6,3.44,3,3.67,2.5,214.2
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,0.3,1,3.3,3.44,3.12,3.11,3,214.83
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,0.3,2,3.3,3.33,3.12,3.56,2.88,216.09
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,0.3,3,3.4,3.33,3.12,3.33,3,214.2
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,0.7,1,3.4,3.44,3.5,3,2.88,200.97
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,0.7,2,3.7,3.33,3.12,3.11,3.5,199.71
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,0.7,3,3.5,2.89,3.12,3.67,2.88,214.2
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,1,1,3.2,3.33,3.38,3.44,3.25,207.27
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,1,2,3.7,3.22,3.25,3.56,2.75,204.75
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,1,,1,3,3.3,3.44,3.25,3.11,2.12,209.79
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,0.3,1,3.7,3.67,3.38,3.33,3.12,214.2
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,0.3,2,3.3,3.22,3.25,3.67,2.88,207.9
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,0.3,3,3.2,3.11,3.25,3.33,3.25,209.16
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,0.7,1,3.1,3.44,3.5,3.22,2.5,207.9
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,0.7,2,3.5,3.56,3,3.11,3,207.9
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,0.7,3,3.2,3.56,3.38,3.33,2.75,200.97
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,1,1,3.4,3,3.12,3.33,3.12,209.79
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,1,2,3.3,3.67,3.75,3.33,3,209.16
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,2,You are a helpful assistant.,1,3,3.6,3,3.12,3.11,2.62,206.01
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,0.3,1,3.2,3.44,3.25,3.33,3,214.2
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,0.3,2,3.1,3.22,3.25,3.33,3,207.9
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,0.3,3,3.4,3.78,3.25,3.33,2.75,212.94
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,0.7,1,3.3,3.33,3.25,3.22,3.25,212.94
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,0.7,2,3.3,3.56,3.25,3.33,2.75,207.27
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,0.7,3,3.5,3.78,3.25,3.44,3.38,204.12
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,1,1,3.5,3.89,3.5,3.22,2.5,202.86
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,1,2,3.3,3.67,3.38,3,2.62,209.79
+mistralai/Mistral-7B-Instruct-v0.1,instruct,baseline,3,Respond to the instructions.,1,3,3.4,3.22,3,3,3.12,202.86
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,0.3,1,4,4.11,3.75,4.22,2.38,224.28
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,0.3,2,3.8,4.11,3.5,4.33,2.25,224.91
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,0.3,3,4.1,4.22,3.5,4.22,2.38,228.06
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,0.7,1,4.1,3.89,3.38,4.11,2.5,219.87
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,0.7,2,3.7,3.89,3.5,4.22,2.25,224.91
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,0.7,3,4.1,4.22,3.38,4.22,2.25,223.02
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,1,1,3.7,4,3.25,4.33,2.5,226.8
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,1,2,4.2,3.89,3.5,3.89,2.25,219.24
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,1,,1,3,4.1,3.89,3.38,4.11,2.38,219.87
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,1,4.1,4.33,3.88,4.33,2.25,226.17
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,2,4.1,4.33,3.62,4.33,2.38,221.76
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.3,3,4.1,4.22,3.75,4.44,2.38,219.24
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,1,4.1,4.22,3.62,4.33,2.5,228.69
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,2,4,4.33,3.5,4.33,2.38,224.91
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,0.7,3,4,4.33,3.75,4.33,2.5,224.28
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,1,4.2,4.44,3.5,4.11,2.62,228.06
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,2,3.8,4.11,3.5,4.11,2.38,224.91
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,2,You are a helpful assistant.,1,3,4.1,4.11,3.25,4.44,2.5,223.02
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,1,4,4.11,3.75,4.33,2.38,231.21
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,2,4,4.11,3.5,4.33,2.38,231.84
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.3,3,4.1,4.11,3.75,4.33,2.25,229.95
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,1,4,4.11,3.5,4.11,2.25,231.84
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,2,3.8,4.22,3.5,4.33,2.5,231.21
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,0.7,3,4.1,4.11,3.5,4.11,2.5,223.02
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,1,1,4,4.11,3.62,4.22,2.38,224.91
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,1,2,3.7,4.22,3.5,4.33,2.5,224.28
+allenai/OLMo-2-1124-7B-Instruct,instruct,baseline,3,Respond to the instructions.,1,3,4.4,4.33,3.75,4.33,2.38,229.95
+gpt-4o,instruct-lg,baseline,1,,0.3,1,3.1,3,3,3,3,202.86
+gpt-4o,instruct-lg,baseline,1,,0.3,2,3.2,3,3,3,3,199.71
+gpt-4o,instruct-lg,baseline,1,,0.3,3,3.1,3,3,3,3,199.08
+gpt-4o,instruct-lg,baseline,1,,0.7,1,3.1,3,3,3,3,199.71
+gpt-4o,instruct-lg,baseline,1,,0.7,2,3.2,3,3,3,3,202.23
+gpt-4o,instruct-lg,baseline,1,,0.7,3,3.2,3,3,3,3,199.71
+gpt-4o,instruct-lg,baseline,1,,1,1,3.2,3,3,3,3,204.12
+gpt-4o,instruct-lg,baseline,1,,1,2,3.2,3,3,3.22,3,199.71
+gpt-4o,instruct-lg,baseline,1,,1,3,3.1,3,3,3,3,202.23
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,0.3,1,3.2,3,3,3,3,204.12
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,0.3,2,3.2,3,3,3,3,207.9
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,0.3,3,3.2,3,3,3,3,206.01
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,0.7,1,3.1,3.22,3,3.22,3,209.79
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,0.7,2,3.1,3,3,3,3,204.12
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,0.7,3,3.1,3,3,3,3,209.79
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,1,1,3.2,3,3,3.44,3,204.75
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,1,2,3.1,3,3,3.22,3,204.75
+gpt-4o,instruct-lg,baseline,2,You are a helpful assistant.,1,3,3.1,3,3,3,3,204.75
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,0.3,1,3.2,3,3,3,3,202.86
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,0.3,2,3.1,3,3,3,3,206.01
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,0.3,3,3.1,3,3,3,3,206.01
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,0.7,1,3.4,2.89,3,3.11,3,206.01
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,0.7,2,3.2,3,3,3,3,211.05
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,0.7,3,3.2,3,3,3.22,3,206.01
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,1,1,3.2,3,3,3,3,214.2
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,1,2,3.2,3,3,3,3,206.01
+gpt-4o,instruct-lg,baseline,3,Respond to the instructions.,1,3,3.2,3.11,3,3.44,3,206.01
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,0.3,1,3.4,3.22,3,3.33,3,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,0.3,2,3.4,3.22,3,3,3,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,0.3,3,3.4,3.22,3,3.22,3,195.3
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,0.7,1,3.2,3.22,3,3.56,3,195.93
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,0.7,2,3.6,3,3,3.44,3,197.19
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,0.7,3,3.4,3.22,3,3.22,3,197.19
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,1,1,3.6,3.22,3,3.22,3,195.93
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,1,2,3.6,3.33,3,3.56,3,199.08
+claude-3-7-sonnet-20250219,instruct-lg,baseline,1,,1,3,3.4,3.22,3.25,3.11,3,197.19
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,0.3,1,3.4,3.22,3,3.89,3,192.15
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,0.3,2,3.4,3.44,3,3.89,3,192.15
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,0.3,3,3.4,3.22,3,3.89,3,192.15
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,0.7,1,3.4,3.44,3,4.22,3,192.78
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,0.7,2,3.4,3.44,3,3.89,3,192.15
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,0.7,3,3.4,3.22,3,3.89,3,192.15
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,1,1,3.4,3,3,4.33,3,192.78
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,1,2,3.2,3.56,3,4.22,2.75,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,2,You are a helpful assistant.,1,3,3.6,3,3,4.11,3,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,0.3,1,3.4,3.22,3,3.33,3,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,0.3,2,3.4,3.22,3,3.33,3,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,0.3,3,3.2,3.22,3,3.33,3,192.78
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,0.7,1,3.4,3.22,3,3.33,3,194.04
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,0.7,2,3.2,3.22,3,3.22,3,195.3
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,0.7,3,3.4,3.22,3,3.56,3,195.93
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,1,1,3.6,3,3,3.44,3,192.78
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,1,2,3.6,3.22,3,3.56,3,197.82
+claude-3-7-sonnet-20250219,instruct-lg,baseline,3,Respond to the instructions.,1,3,3.4,3.11,3,3.67,3,197.82
+llama3.1-405b,instruct-lg,baseline,1,,0.3,1,4.4,3.89,3.25,3.44,3.62,219.24
+llama3.1-405b,instruct-lg,baseline,1,,0.3,2,4.4,3.89,3.25,3.44,3.38,219.87
+llama3.1-405b,instruct-lg,baseline,1,,0.3,3,4.4,3.89,3.25,3.89,2.75,216.72
+llama3.1-405b,instruct-lg,baseline,1,,0.7,1,4.4,4.11,3.12,3.67,3.38,217.98
+llama3.1-405b,instruct-lg,baseline,1,,0.7,2,4.2,4.11,3.25,3.67,3.38,217.98
+llama3.1-405b,instruct-lg,baseline,1,,0.7,3,4.4,3.89,3.25,3.67,3.38,216.72
+llama3.1-405b,instruct-lg,baseline,1,,1,1,4.1,3.89,3,3.44,3,219.24
+llama3.1-405b,instruct-lg,baseline,1,,1,2,4.4,4.11,3.25,3.22,3.5,219.87
+llama3.1-405b,instruct-lg,baseline,1,,1,3,4.2,4.11,3.25,3.89,3,221.13
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,0.3,1,4.6,4.78,3.62,5,2.38,250.11
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,0.3,2,4.6,4.78,3.75,5,2.38,238.77
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,0.3,3,4.7,4.78,3.75,5,1.75,241.29
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,0.7,1,4.6,4.78,4,5,2.12,245.7
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,0.7,2,4.6,4.78,3.75,5,2.25,257.04
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,0.7,3,4.3,4.78,3.88,5,1.75,240.03
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,1,1,4.5,4.78,3.75,5,2.25,243.81
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,1,2,4.6,4.78,3.62,5,2.12,236.25
+llama3.1-405b,instruct-lg,baseline,2,You are a helpful assistant.,1,3,4.4,4.78,4.12,5,1.88,234.99
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,0.3,1,4.4,4.11,3.25,3.89,3.25,221.13
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,0.3,2,4.2,4.11,3.25,3.67,3.25,219.87
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,0.3,3,3.8,3.89,3,3.67,3.38,221.76
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,0.7,1,4.2,4.11,3.12,3.44,2.88,221.13
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,0.7,2,4.4,4.11,3.25,3.89,3.25,221.76
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,0.7,3,4.4,3.89,3.25,3.67,3.25,219.24
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,1,1,4.3,4.11,3,3.89,3.12,221.13
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,1,2,4.4,4.11,3,3.67,3.25,216.72
+llama3.1-405b,instruct-lg,baseline,3,Respond to the instructions.,1,3,4.4,4.11,3.25,3.89,3.25,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,0.3,1,4,4,3,3.89,3.5,211.05
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,0.3,2,4,4,3,4.11,3.25,212.94
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,0.3,3,4,4.22,3,4.11,3.25,212.94
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,0.7,1,4.4,4,3,3.89,3.25,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,0.7,2,4,4.22,3.25,3.89,3,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,0.7,3,4.2,4.11,3.25,4.11,3.5,209.79
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,1,1,4,4.33,3.25,3.89,3.25,212.31
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,1,2,4.4,3.89,3,4.33,2.5,212.94
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,1,,1,3,4.2,4,3,4.33,3,212.94
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.3,1,4.6,4.67,3.5,4.56,2.5,228.06
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.3,2,4.6,4.67,3.5,4.33,2.5,226.17
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.3,3,4.6,4.67,3.5,4.56,2.5,226.8
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.7,1,4.6,4.67,3.5,4.33,2.25,231.21
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.7,2,4.6,4.67,3.75,4.33,2.5,229.95
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.7,3,4.6,4.67,3.25,4.56,2.5,231.84
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,1,1,4.6,4.56,3,4.33,2.5,226.8
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,1,2,4.5,4.67,3.5,4.56,2.25,228.69
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,1,3,4.6,4.67,3.5,4.56,2.25,229.95
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.3,1,4.6,4.33,3.25,4.11,3.25,217.98
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.3,2,4.4,4.11,3.25,4.11,3,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.3,3,4.6,4.11,3.25,4.33,3.25,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.7,1,4.4,4.11,3.25,4.11,3,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.7,2,4.6,4,3,4.33,3.25,216.09
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.7,3,4.6,4.22,3.25,4.11,3.25,217.98
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,1,1,4.4,4.11,3.25,4.33,3.25,214.83
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,1,2,4.4,4.11,3,4.11,3.5,217.98
+meta-llama/Llama-3.3-70B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,1,3,4.4,4.33,3.25,3.89,3,221.13
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,0.3,1,4.4,3.67,3,3.44,3,231.21
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,0.3,2,4.2,3.89,3,3.44,3,229.95
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,0.3,3,4.2,3.89,3,3.44,3,233.1
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,0.7,1,4.2,3.89,3,3.44,2.88,233.73
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,0.7,2,4.2,3.44,3,3.44,3,229.95
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,0.7,3,3.9,3.67,3,3.44,3,231.84
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,1,1,4.1,3.89,3,3.44,2.5,231.84
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,1,2,4.4,3.67,3,3.67,3.12,233.73
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,1,,1,3,4.1,3.22,3,3.44,2.75,233.73
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.3,1,3.9,3.44,3,3.67,3,236.88
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.3,2,4,3.67,3,3.89,3,234.99
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.3,3,4,3.67,3.25,3.67,3,234.99
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.7,1,4,3.44,3,3.44,3,238.77
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.7,2,3.9,3.67,3.25,3.67,2.75,233.73
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,0.7,3,3.8,3.67,3.25,4,2.75,231.84
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,1,1,3.9,3.44,3.5,3.44,2.88,234.99
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,1,2,3.7,3.67,3,3.89,2.75,233.1
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,2,You are a helpful assistant.,1,3,3.9,3.67,3.25,3.67,2.75,238.14
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.3,1,4,3.67,3,3.67,3,236.25
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.3,2,4,3.67,3,3.44,3,234.99
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.3,3,4,3.67,3.25,3.44,3,234.99
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.7,1,4,3.67,3,3.67,2.75,233.73
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.7,2,3.8,3.89,3,3.67,3,233.1
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,0.7,3,4.1,3.67,3,3.89,2.88,233.73
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,1,1,4,3.67,3.25,3.67,3,236.25
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,1,2,3.7,3.56,3,3.56,3,231.84
+Qwen/Qwen2.5-72B-Instruct-Turbo,instruct-lg,baseline,3,Respond to the instructions.,1,3,3.9,3.56,3,3.89,3,236.88
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,0.3,1,4.4,4.11,3.5,4.22,2,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,0.3,2,4.4,4.22,3.5,4.22,2,243.81
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,0.3,3,4.6,4.22,3.5,4.22,2,243.81
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,0.7,1,4.5,4.11,3.62,4.33,2.12,243.81
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,0.7,2,4.4,4.22,3.62,4.33,2.38,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,0.7,3,4.3,4.11,3.75,4.22,2.12,245.7
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,1,1,4.3,4.22,3.5,4,2.38,241.92
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,1,2,4.4,4.11,3.75,4.33,2.38,246.96
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,1,,1,3,4.4,4.22,3.88,4.11,2,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,0.3,1,4.6,4.44,3.75,4.44,2,243.18
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,0.3,2,4.6,4.33,3.62,4.33,2,241.29
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,0.3,3,4.5,4.33,3.62,4.44,2,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,0.7,1,4.6,4.44,3.62,4.44,2,241.29
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,0.7,2,4.5,4.33,3.25,4.33,2,241.29
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,0.7,3,4.3,4.33,3.5,4.33,2,238.77
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,1,1,4.5,4.22,3.62,4.11,2.12,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,1,2,4.5,4.11,3.5,4.33,2,238.14
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,2,You are a helpful assistant.,1,3,4.5,4.22,3.62,4.33,2,238.77
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,0.3,1,4.6,4.33,3.75,4.44,2,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,0.3,2,4.6,4.33,3.75,4.44,2,245.7
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,0.3,3,4.6,4.33,3.75,4.44,2,245.07
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,0.7,1,4.6,4.33,3.88,4.33,2,238.77
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,0.7,2,4.6,4.33,3.88,4.44,2,241.29
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,0.7,3,4.6,4.22,3.62,4.56,2,243.81
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,1,1,4.6,4.22,3.62,4.56,2.12,245.7
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,1,2,4.4,4.44,3.88,4.44,2,245.7
+Qwen/Qwen3-235B-A22B-Instruct-2507-tput,instruct-lg,baseline,3,Respond to the instructions.,1,3,4.2,4.22,4,4.44,2,241.29

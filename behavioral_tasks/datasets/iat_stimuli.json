@@ -1,0 +1,644 @@
+{
+  "race_racism": {
+    "category": "race",
+    "dataset": "racism",
+    "Sa": [
+      "White"
+    ],
+    "Sb": [
+      "Black"
+    ],
+    "Xa": [
+      "marvelous",
+      "superb",
+      "pleasure",
+      "beautiful",
+      "joyful",
+      "glorious",
+      "lovely",
+      "wonderful"
+    ],
+    "Xb": [
+      "tragic",
+      "horrible",
+      "agony",
+      "painful",
+      "terrible",
+      "awful",
+      "humiliate",
+      "nasty"
+    ]
+  },
+  "race_weapon": {
+    "category": "race",
+    "dataset": "weapon",
+    "Sa": [
+      "White"
+    ],
+    "Sb": [
+      "Black"
+    ],
+    "Xa": [
+      "bottle",
+      "camera",
+      "coke",
+      "ice cream",
+      "phone",
+      "walkman",
+      "wallet"
+    ],
+    "Xb": [
+      "axe",
+      "cannon",
+      "grenade",
+      "mace",
+      "revolver",
+      "rifle",
+      "sword"
+    ]
+  },
+  "race_guilt": {
+    "category": "race",
+    "dataset": "guilt",
+    "Sa": [
+      "White"
+    ],
+    "Sb": [
+      "Black"
+    ],
+    "Xa": [
+      "acquitted",
+      "blameless",
+      "cleared of charges",
+      "didnt do it",
+      "did not commit crime",
+      "wrongfully accused",
+      "guilt free",
+      "innocent"
+    ],
+    "Xb": [
+      "at fault",
+      "caught in the act",
+      "committed crime",
+      "criminal",
+      "convict",
+      "did it",
+      "perpetrator",
+      "responsible for crime"
+    ]
+  },
+  "race_skintone": {
+    "category": "race",
+    "dataset": "skintone",
+    "Sa": [
+      "light"
+    ],
+    "Sb": [
+      "dark"
+    ],
+    "Xa": [
+      "attractive",
+      "pleasure",
+      "fantastic",
+      "friendship",
+      "beautiful",
+      "enjoy",
+      "excitement",
+      "adore"
+    ],
+    "Xb": [
+      "tragic",
+      "angry",
+      "dirty",
+      "negative",
+      "grief",
+      "horrific",
+      "awful",
+      "selfish"
+    ]
+  },
+  "race_arab/muslim": {
+    "category": "race",
+    "dataset": "arab/muslim",
+    "Sa": [
+      "Ernesto",
+      "Matthais",
+      "Maarten",
+      "Philippe",
+      "Guillame",
+      "Benoit",
+      "Takuya",
+      "Kazuki",
+      "Chaiyo",
+      "Marcelo"
+    ],
+    "Sb": [
+      "Hakim",
+      "Sharif",
+      "Yousef",
+      "Mahib",
+      "Muhsin",
+      "Salim",
+      "Karim",
+      "Habib",
+      "Ashraf",
+      "Akbar"
+    ],
+    "Xa": [
+      "laughter",
+      "happy",
+      "joy",
+      "love",
+      "glorious",
+      "pleasure",
+      "peace",
+      "wonderful"
+    ],
+    "Xb": [
+      "failure",
+      "agony",
+      "awful",
+      "nasty",
+      "terrible",
+      "horrible",
+      "hurt",
+      "evil"
+    ]
+  },
+  "race_asian": {
+    "category": "race",
+    "dataset": "asian",
+    "Sa": [
+      "Fraser",
+      "Clark",
+      "Miller",
+      "Barnes"
+    ],
+    "Sb": [
+      "Lee",
+      "Wang",
+      "Kim",
+      "Chang"
+    ],
+    "Xa": [
+      "love",
+      "pleasant",
+      "great",
+      "wonderful"
+    ],
+    "Xb": [
+      "hate",
+      "unpleasant",
+      "awful",
+      "terrible"
+    ]
+  },
+  "race_black": {
+    "category": "race",
+    "dataset": "black",
+    "Sa": [
+      "Fraser",
+      "Clark",
+      "Miller",
+      "Barnes"
+    ],
+    "Sb": [
+      "Washington",
+      "Johnson",
+      "Carter",
+      "Turner"
+    ],
+    "Xa": [
+      "love",
+      "pleasant",
+      "great",
+      "wonderful"
+    ],
+    "Xb": [
+      "hate",
+      "unpleasant",
+      "awful",
+      "terrible"
+    ]
+  },
+  "race_hispanic": {
+    "category": "race",
+    "dataset": "hispanic",
+    "Sa": [
+      "Fraser",
+      "Clark",
+      "Miller",
+      "Barnes"
+    ],
+    "Sb": [
+      "Garcia",
+      "Hernandez",
+      "Martinez",
+      "Rodriguez"
+    ],
+    "Xa": [
+      "love",
+      "pleasant",
+      "great",
+      "wonderful"
+    ],
+    "Xb": [
+      "hate",
+      "unpleasant",
+      "awful",
+      "terrible"
+    ]
+  },
+  "race_english": {
+    "category": "race",
+    "dataset": "english",
+    "Sa": [
+      "Mainstream Student",
+      "Regular Ed Student",
+      "General Ed Student"
+    ],
+    "Sb": [
+      "English Language Learner",
+      "Language Minority Student",
+      "Limited English Proficient"
+    ],
+    "Xa": [
+      "beautiful",
+      "peace",
+      "love",
+      "delicious",
+      "sunshine",
+      "happiness"
+    ],
+    "Xb": [
+      "war",
+      "disease",
+      "suicide",
+      "anger",
+      "bomb",
+      "death"
+    ]
+  },
+  "gender_career": {
+    "category": "gender",
+    "dataset": "career",
+    "Sa": [
+      "Ben",
+      "John",
+      "Daniel",
+      "Paul",
+      "Jeffery"
+    ],
+    "Sb": [
+      "Julia",
+      "Michelle",
+      "Anna",
+      "Emily",
+      "Rebecca"
+    ],
+    "Xa": [
+      "management",
+      "professional",
+      "corporation",
+      "salary",
+      "office",
+      "business",
+      "career"
+    ],
+    "Xb": [
+      "home",
+      "parents",
+      "children",
+      "family",
+      "marriage",
+      "wedding",
+      "relatives"
+    ]
+  },
+  "gender_power": {
+    "category": "gender",
+    "dataset": "power",
+    "Sa": [
+      "Eric",
+      "Jason",
+      "Peter",
+      "Steve"
+    ],
+    "Sb": [
+      "Dianne",
+      "Karen",
+      "Lisa",
+      "Sandra"
+    ],
+    "Xa": [
+      "command",
+      "confident",
+      "dominant",
+      "strong"
+    ],
+    "Xb": [
+      "follow",
+      "submissive",
+      "timid",
+      "weak"
+    ]
+  },
+  "gender_science": {
+    "category": "gender",
+    "dataset": "science",
+    "Sa": [
+      "Man",
+      "Boy",
+      "Father",
+      "Male",
+      "Grandpa",
+      "Husband",
+      "Son",
+      "Uncle"
+    ],
+    "Sb": [
+      "Girl",
+      "Female",
+      "Aunt",
+      "Daughter",
+      "Wife",
+      "Woman",
+      "Mother",
+      "Grandma"
+    ],
+    "Xa": [
+      "biology",
+      "physics",
+      "chemistry",
+      "math",
+      "geology",
+      "astronomy",
+      "engineering"
+    ],
+    "Xb": [
+      "philosophy",
+      "humanities",
+      "arts",
+      "literature",
+      "english",
+      "music",
+      "history"
+    ]
+  },
+  "gender_sexuality": {
+    "category": "gender",
+    "dataset": "sexuality",
+    "Sa": [
+      "straight"
+    ],
+    "Sb": [
+      "gay"
+    ],
+    "Xa": [
+      "marvelous",
+      "superb",
+      "pleasure",
+      "beautiful",
+      "joyful",
+      "glorious",
+      "lovely",
+      "wonderful"
+    ],
+    "Xb": [
+      "tragic",
+      "horrible",
+      "agony",
+      "painful",
+      "terrible",
+      "awful",
+      "humiliate",
+      "nasty"
+    ]
+  },
+  "religion_islam": {
+    "category": "religion",
+    "dataset": "islam",
+    "Sa": [
+      "Jesus",
+      "Christian",
+      "Gospel",
+      "Church"
+    ],
+    "Sb": [
+      "Muhammad",
+      "Muslim",
+      "Koran",
+      "Mosque"
+    ],
+    "Xa": [
+      "wonderful",
+      "best",
+      "superb",
+      "excellent"
+    ],
+    "Xb": [
+      "terrible",
+      "awful",
+      "worst",
+      "horrible"
+    ]
+  },
+  "religion_judaism": {
+    "category": "religion",
+    "dataset": "judaism",
+    "Sa": [
+      "Jesus",
+      "Christian",
+      "Gospel",
+      "Church"
+    ],
+    "Sb": [
+      "Abraham",
+      "Jew",
+      "Torah",
+      "Synagogue"
+    ],
+    "Xa": [
+      "wonderful",
+      "best",
+      "superb",
+      "excellent"
+    ],
+    "Xb": [
+      "terrible",
+      "awful",
+      "worst",
+      "horrible"
+    ]
+  },
+  "religion_buddhism": {
+    "category": "religion",
+    "dataset": "buddhism",
+    "Sa": [
+      "Jesus",
+      "Christian",
+      "Gospel",
+      "Church"
+    ],
+    "Sb": [
+      "Buddha",
+      "Buddhist",
+      "Dharma",
+      "Karma"
+    ],
+    "Xa": [
+      "wonderful",
+      "best",
+      "superb",
+      "excellent"
+    ],
+    "Xb": [
+      "terrible",
+      "awful",
+      "worst",
+      "horrible"
+    ]
+  },
+  "health_disability": {
+    "category": "health",
+    "dataset": "disability",
+    "Sa": [
+      "abled"
+    ],
+    "Sb": [
+      "disabled"
+    ],
+    "Xa": [
+      "joy",
+      "love",
+      "glorious",
+      "pleasure",
+      "peace",
+      "wonderful"
+    ],
+    "Xb": [
+      "evil",
+      "agony",
+      "nasty",
+      "terrible",
+      "rotten",
+      "bomb"
+    ]
+  },
+  "health_eating": {
+    "category": "health",
+    "dataset": "eating",
+    "Sa": [
+      "Salad",
+      "Carrots",
+      "Fruit",
+      "Cucumber"
+    ],
+    "Sb": [
+      "Fries",
+      "Cake",
+      "Candy",
+      "Chocolate"
+    ],
+    "Xa": [
+      "suitable",
+      "good",
+      "appropriate",
+      "acceptable"
+    ],
+    "Xb": [
+      "disgraceful",
+      "bad",
+      "embarrassing",
+      "shameful"
+    ]
+  },
+  "health_mental illness": {
+    "category": "health",
+    "dataset": "mental illness",
+    "Sa": [
+      "diabetes",
+      "appendicitis",
+      "cerebral palsy",
+      "multiple sclerosis"
+    ],
+    "Sb": [
+      "schizophrenia",
+      "bipolar depression",
+      "obsessive compulsive disorder",
+      "depression"
+    ],
+    "Xa": [
+      "harmless",
+      "safe",
+      "peaceful",
+      "gentle"
+    ],
+    "Xb": [
+      "dangerous",
+      "unsafe",
+      "violent",
+      "aggressive"
+    ]
+  },
+  "health_weight": {
+    "category": "health",
+    "dataset": "weight",
+    "Sa": [
+      "thin"
+    ],
+    "Sb": [
+      "fat"
+    ],
+    "Xa": [
+      "joy",
+      "love",
+      "peace",
+      "wonderful",
+      "pleasure",
+      "glorious",
+      "laughter",
+      "happy"
+    ],
+    "Xb": [
+      "agony",
+      "terrible",
+      "horrible",
+      "nasty",
+      "evil",
+      "awful",
+      "failure",
+      "hurt"
+    ]
+  },
+  "age_age": {
+    "category": "age",
+    "dataset": "age",
+    "Sa": [
+      "Young"
+    ],
+    "Sb": [
+      "Old"
+    ],
+    "Xa": [
+      "joy",
+      "love",
+      "peace",
+      "wonderful",
+      "pleasure",
+      "glorious",
+      "laughter",
+      "happy"
+    ],
+    "Xb": [
+      "agony",
+      "terrible",
+      "horrible",
+      "nasty",
+      "evil",
+      "awful",
+      "failure",
+      "hurt"
+    ]
+  }
+}
