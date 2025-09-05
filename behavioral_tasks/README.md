@@ -4,7 +4,7 @@ This folder contains example code snippets for the four behavioral tasks used in
 
 ## Task Data  
 - **Risk-Taking** : the data is directly generated in the notebooks.  
-- **Honesty**, **IAT**, and **Sycophancy**: the data can be found in the [experiment_dataset]
+- **Honesty**, **IAT**, and **Sycophancy**: the data can be found in the [datasets](datasets) folder.
 
 Notes:  
 - For **IAT**, our code and data reference the work *"[Measuring Implicit Bias in Explicitly Unbiased Large Language Models](https://github.com/baixuechunzi/llm-implicit-bias)"*.  
