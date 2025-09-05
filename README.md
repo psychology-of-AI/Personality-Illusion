@@ -9,7 +9,7 @@ This official repository holds code for the paper "**The Personality Illusion: R
         <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue">
     </a>
     <a href="https://arxiv.org/abs/2509.03730">
-        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.10540-red?logo=arxiv">
+        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2509.03730-red?logo=arxiv">
     </a>
     <a href="LICENSE">
         <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green">
