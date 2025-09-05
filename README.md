@@ -5,10 +5,10 @@
 This official repository holds code for the paper "**The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**". We open source all code and experiment results data here under a permissive MIT license, to encourage reproduction and further research exploration.
 
 <p align="left">
-    <a href="https://pengrui-han.github.io/LLM_Personality.github.io/">
+    <a href="https://psychology-of-ai.github.io/">
         <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue">
     </a>
-    <a href="http://arxiv.org/abs/2507.10540">
+    <a href="https://arxiv.org/abs/2509.03730">
         <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2507.10540-red?logo=arxiv">
     </a>
     <a href="LICENSE">
@@ -48,5 +48,13 @@ ICML 2025 MOFA Workshop; Under Conference Review <br>
 \* Equal Contribution
 
 ```bibtex
-
+@misc{han2025personalityillusionrevealingdissociation,
+      title={The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs}, 
+      author={Pengrui Han and Rafal Kocielnik and Peiyang Song and Ramit Debnath and Dean Mobbs and Anima Anandkumar and R. Michael Alvarez},
+      year={2025},
+      eprint={2509.03730},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2509.03730}, 
+}
 ```
