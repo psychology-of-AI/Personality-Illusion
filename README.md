@@ -1,6 +1,6 @@
 # The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
 
-🚩**News**: [Our paper](https://openreview.net/forum?id=pdLNGgdO1A&referrer=%5Bthe%20profile%20of%20Pengrui%20Han%5D(%2Fprofile%3Fid%3D~Pengrui_Han1)) is accepted to the ICML 2025 Workshop on Models of Human Feedback for AI Alignment (MoFA)!
+🚩**News**: [Our paper](https://openreview.net/forum?id=pdLNGgdO1A) is accepted to the ICML 2025 Workshop on Models of Human Feedback for AI Alignment (MoFA)!
 
 This official repository holds code for the paper "**The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**". We open source all code and experiment results data here under a permissive MIT license, to encourage reproduction and further research exploration.
 
@@ -29,7 +29,7 @@ This official repository holds code for the paper "**The Personality Illusion: R
 
 ## Contributions
 
-We **welcome contributions**. Please feel free to open a PR to add new self-reports, behavioral tasks, or additional LLMs. In your PR, include a brief description along with any relevant details (e.g., extra setup steps, generated results, acknowledgments to prior work, etc.). For PRs proposing other improvements or new directions, please also provide a short explanation of the motivation behind your contribution. We encourage you to start a discussion with the maintainers before submitting major changes, to help align efforts and minimize unnecessary work.
+We **welcome contributions**. Feel free to open a PR to add new self-reports, behavioral tasks, or additional LLMs. In your PR, include a brief description along with any relevant details (e.g., extra setup steps, generated results, acknowledgments to prior work, etc.). For PRs proposing other improvements or new directions, please also provide a short explanation of the motivation behind your contribution. We encourage you to start a discussion with the maintainers before submitting major changes, to help align efforts and minimize unnecessary work.
 
 ## Getting in Touch
 
@@ -41,7 +41,7 @@ We **welcome contributions**. Please feel free to open a PR to add new self-repo
 
 ## Citation
 
-[The Personality Illusion: Revealing Dissociation Between Self-Reports & Behaviors in LLMs](https://aclanthology.org/2024.findings-emnlp.322/)  
+[The Personality Illusion: Revealing Dissociation Between Self-Reports & Behaviors in LLMs](https://arxiv.org/abs/2509.03730)  
 ICML 2025 MOFA Workshop; Under Conference Review <br>
 [Pengrui Han](https://pengrui-han.github.io/)<sup>*1,2</sup>, [Rafal Kocielnik](https://www.rkocielnik.com/)<sup>*1</sup>, [Peiyang Song](https://peiyang-song.github.io/)<sup>1</sup>, [Ramit Debnath](https://www.arct.cam.ac.uk/staff/dr-ramit-debnath)<sup>3</sup>, [Dean Mobbs](https://www.hss.caltech.edu/people/dean-mobbs)<sup>1</sup>, [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/)<sup>1</sup>, [R. Michael Alvarez](https://www.hss.caltech.edu/people/r-michael-alvarez)<sup>1</sup>  <br>
 <sup>1</sup>California Institute of Technology; <sup>2</sup>University of Illinois Urbana-Champaign; <sup>3</sup>University of Cambridge <br>
