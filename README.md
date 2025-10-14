@@ -1,8 +1,10 @@
 # The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
 
+🚩**News**: Our paper is accepted to the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW)!
+
 🚩**News**: The full release of this paper is now available on [arXiv](https://arxiv.org/abs/2509.03730). You can find all code and source data in this repository, and an overview to our project on our [webpage](https://psychology-of-ai.github.io/).
 
-🚩**News**: [Our paper](https://openreview.net/forum?id=pdLNGgdO1A) is accepted to the ICML 2025 Workshop on Models of Human Feedback for AI Alignment (MoFA)!
+🚩**News**: Our paper is accepted to the ICML 2025 Workshop on Models of Human Feedback for AI Alignment (MoFA)!
 
 This official repository holds code for the paper "**The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**". We open source all code and experiment results data here under a permissive MIT license, to encourage reproduction and further research exploration.
 
@@ -44,9 +46,9 @@ We **welcome contributions**. Feel free to open a PR to add new self-reports, be
 ## Citation
 
 [The Personality Illusion: Revealing Dissociation Between Self-Reports & Behaviors in LLMs](https://arxiv.org/abs/2509.03730)  
-ICML 2025 MOFA Workshop; Under Conference Review <br>
+NeurIPS 2025 LAW Workshop; Under Conference Review <br>
 [Pengrui Han](https://pengrui-han.github.io/)<sup>*1,2</sup>, [Rafal Kocielnik](https://www.rkocielnik.com/)<sup>*1</sup>, [Peiyang Song](https://peiyang-song.github.io/)<sup>1</sup>, [Ramit Debnath](https://www.arct.cam.ac.uk/staff/dr-ramit-debnath)<sup>3</sup>, [Dean Mobbs](https://www.hss.caltech.edu/people/dean-mobbs)<sup>1</sup>, [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/)<sup>1</sup>, [R. Michael Alvarez](https://www.hss.caltech.edu/people/r-michael-alvarez)<sup>1</sup>  <br>
-<sup>1</sup>California Institute of Technology; <sup>2</sup>University of Illinois Urbana-Champaign; <sup>3</sup>University of Cambridge <br>
+<sup>1</sup> California Institute of Technology; <sup>2</sup> University of Illinois Urbana-Champaign; <sup>3</sup> University of Cambridge <br>
 \* Equal Contribution
 
 ```bibtex
