@@ -1,8 +1,8 @@
 # The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
 
-🚩**News**: Our paper is accepted to the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW)!
+🚩**News**: Our paper is accepted to the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW). See you in San Diego!
 
-🚩**News**: The full release of this paper is now available on [arXiv](https://arxiv.org/abs/2509.03730). You can find all code and source data in this repository, and an overview to our project on our [webpage](https://psychology-of-ai.github.io/).
+🚩**News**: The full release of this paper is now available on [arXiv](https://arxiv.org/abs/2509.03730). You can find all code and source data in this repository, and an overview to our project on our project [webpage](https://psychology-of-ai.github.io/).
 
 🚩**News**: Our paper is accepted to the ICML 2025 Workshop on Models of Human Feedback for AI Alignment (MoFA)!
 
