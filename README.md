@@ -46,7 +46,7 @@ We **welcome contributions**. Feel free to open a PR to add new self-reports, be
 ## Citation
 
 [The Personality Illusion: Revealing Dissociation Between Self-Reports & Behaviors in LLMs](https://arxiv.org/abs/2509.03730)  
-NeurIPS 2025 LAW Workshop; Under Conference Review <br>
+Oral Presentation + **Best Paper Honorable Mention** @ NeurIPS 2025 LAW Workshop; Under Conference Review <br>
 [Pengrui Han](https://pengrui-han.github.io/)<sup>*1,2</sup>, [Rafal Kocielnik](https://www.rkocielnik.com/)<sup>*1</sup>, [Peiyang Song](https://peiyang-song.github.io/)<sup>1</sup>, [Ramit Debnath](https://www.arct.cam.ac.uk/staff/dr-ramit-debnath)<sup>3</sup>, [Dean Mobbs](https://www.hss.caltech.edu/people/dean-mobbs)<sup>1</sup>, [Anima Anandkumar](https://tensorlab.cms.caltech.edu/users/anima/)<sup>1</sup>, [R. Michael Alvarez](https://www.hss.caltech.edu/people/r-michael-alvarez)<sup>1</sup>  <br>
 <sup>1</sup> California Institute of Technology; <sup>2</sup> University of Illinois Urbana-Champaign; <sup>3</sup> University of Cambridge <br>
 \* Equal Contribution
