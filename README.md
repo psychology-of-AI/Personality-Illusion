@@ -1,26 +1,18 @@
 # The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
 
-🏆**News**: Our paper won the Best Paper Honorable Mention award at NeurIPS LAW Workshop. Thanks for the recognition!
+🏆 **News**: Our paper won the Best Paper Honorable Mention award at NeurIPS LAW Workshop. Thanks for the recognition!
 
-🚩**News**: Our paper is accepted to the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW). See you in San Diego!
+🚩 **News**: Our paper is accepted as an **Oral Presentation** to the NeurIPS 2025 Workshop on Bridging Language, Agent, and World Models for Reasoning and Planning (LAW). See you in San Diego!
 
-🚩**News**: The full release of this paper is now available on [arXiv](https://arxiv.org/abs/2509.03730). You can find all code and source data in this repository, and an overview to our project on our project [webpage](https://psychology-of-ai.github.io/).
+🚩 **News**: The full release of this paper is now available on [arXiv](https://arxiv.org/abs/2509.03730). You can find all code and source data in this repository, and an overview to our project on our project [webpage](https://psychology-of-ai.github.io/).
 
 This official repository holds code for the paper "**The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs**". We open source all code and experiment results data here under a permissive MIT license, to encourage reproduction and further research exploration.
 
-<p align="left">
-    <a href="https://psychology-of-ai.github.io/">
-        <img alt="Project Page" src="https://img.shields.io/badge/Project-Page-blue">
-    </a>
-    <a href="https://arxiv.org/abs/2509.03730">
-        <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2509.03730-red?logo=arxiv">
-    </a>
-    <a href="LICENSE">
-        <img alt="License" src="https://img.shields.io/badge/LICENSE-MIT-green">
-    </a>
-</p>
+[![Project Page](https://img.shields.io/badge/Project-Page-blue)](https://psychology-of-ai.github.io/)
+[![arXiv](https://img.shields.io/badge/arXiv-2509.03730-red?logo=arxiv)](https://arxiv.org/abs/2509.03730)
+[![License](https://img.shields.io/badge/LICENSE-MIT-green)](./LICENSE)
 
-![Alt text](assets/workflow.png "Optional Title")
+![Workflow](./assets/workflow.png)
 
 
 ## Repo Structure
