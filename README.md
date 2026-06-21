@@ -1,6 +1,6 @@
 # The Personality Illusion: Revealing Dissociation Between Self-Reports & Behavior in LLMs
 
-🚩 **News**: Our paper is accepted to ICML 2026. See you in Seoul, South Korea!
+🚩 **News**: Our paper is accepted to **ICML 2026**. See you in Seoul, South Korea!
 
 🏆 **News**: Our paper won the Best Paper Honorable Mention award at NeurIPS LAW Workshop. Thanks for the recognition!
 
